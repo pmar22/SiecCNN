@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/Siec/DATABASE/tf-example-object-detection-api-race-cars-master/config_test/trainDir\\model.ckpt-8638"
+all_model_checkpoint_paths: "D:/Siec/DATABASE/tf-example-object-detection-api-race-cars-master/config_test/trainDir\\model.ckpt-8440"
+all_model_checkpoint_paths: "D:/Siec/DATABASE/tf-example-object-detection-api-race-cars-master/config_test/trainDir\\model.ckpt-8489"
+all_model_checkpoint_paths: "D:/Siec/DATABASE/tf-example-object-detection-api-race-cars-master/config_test/trainDir\\model.ckpt-8539"
+all_model_checkpoint_paths: "D:/Siec/DATABASE/tf-example-object-detection-api-race-cars-master/config_test/trainDir\\model.ckpt-8589"
+all_model_checkpoint_paths: "D:/Siec/DATABASE/tf-example-object-detection-api-race-cars-master/config_test/trainDir\\model.ckpt-8638"

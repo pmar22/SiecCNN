@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMGS</folder>
+	<filename>1515280598694_1.jpg</filename>
+	<path>D:\Siec\DATABASE\IMGS\1515280598694_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1264</width>
+		<height>7134</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>title</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>173</ymin>
+			<xmax>736</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
